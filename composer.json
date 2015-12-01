@@ -1,13 +1,13 @@
 {
-    "name": "learning/yii2-firstlearning",
-    "description": "creare rss use nby array or query data",
+    "name": "persianyii/yii2-rss",
+    "description": "create rss uses by array or db query data",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension"],
+    "keywords": ["yii2","extension","rss"],
     "license": "GPL-2.0",
     "authors": [
         {
-            "name": "HB",
-            "email": "hediyeh.bayani@gmail.com"
+            "name": "seifzadeh",
+            "email": "mehrdad.seifzadeh@gmail.com"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "learning\\firstlearning\\": ""
+            "persianyii\\rss\\": ""
         }
     }
 }
